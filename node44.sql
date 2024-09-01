@@ -106,3 +106,6 @@ add column is_deleted int not NULL DEFAULT 1
 
 #order by age desc
 #limit 1
+
+
+#texst gop commit 1 
